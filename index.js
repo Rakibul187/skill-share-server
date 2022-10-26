@@ -14,6 +14,10 @@ app.get('/news-categories', (req, res) => {
     res.send(categories)
 })
 
+app.get('/courses', (req, res) => {
+    res.send(courses)
+})
+
 
 app.listen(port, () => {
     console.log('Skill Share Server Is Running on port ', port)
