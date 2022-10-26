@@ -1,0 +1,56 @@
+[
+    {
+        "id": "01",
+        "name": "Data Science",
+        "img": "https://media.istockphoto.com/photos/data-scientists-hand-of-programmer-touching-and-analyzing-development-picture-id1364317541?s=612x612",
+        "details": "Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract or extrapolate knowledge and insights from noisy, structured and unstructured data, and apply knowledge from data across a broad range of application domains.data science is a very good career with tremendous opportunities for advancement in the future. Already, demand is high, salaries are competitive, and the perks are numerous which is why Data Scientist has been called the most promising career” by LinkedIn and the “best job in America by Glassdoor.",
+        "duration": "8 month",
+        "fee": "95",
+        "start": "01-01-23"
+    },
+    {
+        "id": "02",
+        "name": "Artificial Intelligence",
+        "img": "https://media.istockphoto.com/photos/microprocessor-on-motherboard-computer-circuit-picture-id1345658982?s=612x612",
+        "details": "Artificial intelligence AI is intelligence demonstrated by machines, as opposed to the natural intelligence displayed by animals and humans.Artificial intelligence is the simulation of human intelligence processes by machines, especially computer systems. Specific applications of AI include expert systems, natural language processing, speech recognition and machine vision.According to the current system of classification, there are four primary AI types: reactive, limited memory, theory of mind, and self-aware.",
+        "duration": "6 month",
+        "fee": "90",
+        "start": "01-11-22"
+    },
+    {
+        "id": "03",
+        "name": "Web Development",
+        "img": "https://media.istockphoto.com/photos/web-design-desktop-picture-id1305999733?s=612x612",
+        "details": "As a web developer, you will encounter numerous challenges. Some of them will be easy to fix, while others will be extremely hard, Kowalski says. It's critical to be persistent in improving your skills since the industry is ever-changing.There's definitely a lot to learn in web development.Web developers create and maintain websites. They are also responsible for the site's technical aspects, such as its performance and capacity, which are measures of a website's speed and how much traffic the site can handle. In addition, web developers may create content for the site.",
+        "duration": "6 month",
+        "fee": "105",
+        "start": "01-12-22"
+    },
+    {
+        "id": "04",
+        "name": "Blockchain Development",
+        "img": "https://media.istockphoto.com/photos/data-scientists-male-programmer-using-laptop-analyzing-and-developing-picture-id1295900106?s=612x612",
+        "details": "Blockchain development refers to building, maintaining, and designing blockchain applications and systems. Overall, it seeks to use the unique features of blockchain technology to solve problems and create opportunities. An example of innovative blockchain development is the smart contract.In the market, numerous IT organizations need blockchain developers. So being a blockchain developer is a smart choice because it is the most recent technology that one can master and advance in their career. There are two different types of blockchain developers, core and software blockchain developers.",
+        "duration": "9 month",
+        "fee": "110",
+        "start": "01-01-23"
+    },
+    {
+        "id": "05",
+        "name": "Software Development",
+        "img": "https://media.istockphoto.com/photos/agile-software-development-with-developer-using-kanban-board-on-picture-id1346698461?s=612x612",
+        "": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.Software developers design, program, build, deploy and maintain software using many different skills and tools. They also help build software systems that power networks and devices and ensure that those systems remain functional.Software development is an excellent career choice by any measure. It's a high-paying and growing field, there are plenty of jobs, and workers report positive job satisfaction.",
+        "duration": "1 year",
+        "fee": "115",
+        "start": "01-11-22"
+    },
+    {
+        "id": "06",
+        "name": "Machine Learning",
+        "img": "https://media.istockphoto.com/photos/artificial-intelligence-digital-concept-abstract-brains-inside-light-picture-id1366475366?s=612x612",
+        "details": "Machine learning engineers act as critical members of the data science team. Their tasks involve researching, building, and designing the artificial intelligence responsible for machine learning and maintaining and improving existing artificial intelligence systems.machine learning is a good career path. According to a recent report by Indeed, Machine Learning Engineer is one of the top jobs in the United States in terms of salary, growth of postings, and general demand.",
+        "duration": "8 month",
+        "fee": "95",
+        "start": "01-01-23"
+    }
+]
