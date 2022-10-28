@@ -26,14 +26,6 @@ app.get('/courses', (req, res) => {
     res.send(courses)
 })
 
-
-// app.get('/courses/:id', (req, res) => {
-//     const id = req.params.id;
-//     const selectedNews = news.find(n => n._id === id);
-//     res.send(selectedNews);
-// });
-
-
 app.listen(port, () => {
     console.log('Skill Share Server Is Running on port ', port)
 })
