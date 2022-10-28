@@ -1,26 +1,26 @@
 [
     {
-        "id": "01",
+        "id": "1",
         "name": "Data Science"
     },
     {
-        "id": "02",
+        "id": "2",
         "name": "Artificial Intelligence"
     },
     {
-        "id": "03",
+        "id": "3",
         "name": "Web Development"
     },
     {
-        "id": "04",
+        "id": "4",
         "name": "Blockchain Development"
     },
     {
-        "id": "05",
+        "id": "5",
         "name": "Software Development"
     },
     {
-        "id": "06",
+        "id": "6",
         "name": "Machine Learning"
     }
 ]
